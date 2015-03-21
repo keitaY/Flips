@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\classes-1b5f494a469dfa7d9c5e3d3a1b49a7e4902fc5ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keita Yamamoto\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.0\7ff0e000d1e27e356567f56c92af3b8ab912636f\picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\picasso-2.5.0-cfc1fb0d4f0ad3b6b61eef464f10bdae7e007ce1.jar" />
+    </item>
+    <item
+        jar="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\exploded-aar\FlipViewPager.sample\flipViewPager\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="60f97ee49663a30fbf6eb1aef292e5191ad111f9">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\classes-665f87fdfa61fefb969c7453ddd6d026a5bd4f53.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\android-sdk-windows\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\support-v4-18.0.0-55d4e864da6c6bb1bd59db02ee3487717ad568b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keita Yamamoto\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\butterknife-6.1.0-1382c3e549cc74006f123c21f73b935e7cdc3621.jar" />
+    </item>
+    <item
+        jar="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\exploded-aar\com.github.navasmdc\MaterialDesign\1.4\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="87405405e403de68f4057757b8a2e8de02bd65d0">
+        <dex dex="C:\android_studio_workspace\FlipViewPager.sample\flipViewPagersample\build\intermediates\pre-dexed\debug\classes-24ddf6192453413c17a390c8a70720f735075a9f.jar" />
+    </item>
+
+</items>

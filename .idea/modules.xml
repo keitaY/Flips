@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FlipViewPager.sample.iml" filepath="$PROJECT_DIR$/FlipViewPager.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flipViewPager/flipViewPager.iml" filepath="$PROJECT_DIR$/flipViewPager/flipViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flipViewPagersample/flipViewPagersample.iml" filepath="$PROJECT_DIR$/flipViewPagersample/flipViewPagersample.iml" />
+    </modules>
+  </component>
+</project>
+
